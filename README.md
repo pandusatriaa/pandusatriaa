@@ -15,7 +15,7 @@
             <p>🌱 I’m also diving deeper into backend development, particularly Node.js and Express.js.</p>
             <p>👯 I’m looking to collaborate on open-source projects related to web development or innovative tech.</p>
             <p>💬 Ask me about JavaScript, React, Vue.js, or anything related to web development!</p>
-            <p>📫 Connect with me on <a href="https://api.whatsapp.com/send?phone=62831162963628">WhatsApp</a> or <a href="https://instagram.com/pandugreta">Instagram</a>.</p>
+            <p>📫 Connect with me on <a href="https://api.whatsapp.com/send?phone=6283162963618">WhatsApp</a> or <a href="https://instagram.com/pandugreta">Instagram</a>.</p>
             <p>😄 Pronouns: He/Him</p>
             <p>⚡ Fun fact: I love exploring new coffee shops and trying different coffee blends around the world!</p>
         </section>

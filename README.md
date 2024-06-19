@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi there! 👋
+I'm Pandu Satria, a passionate software developer and technology enthusiast.
 
-<!--
-**pandusatriaa/pandusatriaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on various web development projects, focusing on front-end technologies like React and Vue.js.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning more about backend development, particularly Node.js and Express.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on open source projects related to web development or anything innovative in tech.
+
+💬 Ask me about JavaScript, React, Vue.js, or anything related to web development!
+
+📫 How to reach me: You can connect with me on LinkedIn or Twitter.
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I love to explore new coffee shops and try different coffee blends around the world!
+
+Let's innovate and create awesome tech together! 🚀

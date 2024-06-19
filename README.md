@@ -1,26 +1,37 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Font Awesome CSS -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-7XfNwFy5L9M2FC+kMWfz2YWS7P1fZV/5aQK1HJ1J3R0vDCpLAKMjXyN+fZczEtEgAPyjyRlDBRqZF5xZ2bFfHw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-<body>
-    <div class="container">
-        <header>
-            <h1>Pandu Satria - Passionate Software Developer</h1>
-        </header>
-        <section>
-            <p>👋 Hi there! I'm Pandu Satria, a passionate software developer and technology enthusiast.</p>
-            <p>🔭 Currently, I'm working on various web development projects, focusing on front-end technologies like React and Vue.js.</p>
-            <p>🌱 I’m also diving deeper into backend development, particularly Node.js and Express.js.</p>
-            <p>👯 I’m looking to collaborate on open-source projects related to web development or innovative tech.</p>
-            <p>💬 Ask me about JavaScript, React, Vue.js, or anything related to web development!</p>
-            <!-- Instagram -->
-            <p>📫 Connect with me on <a href="https://instagram.com/pandugreta"><i class="fab fa-instagram"></i> Instagram</a> or <a href="https://api.whatsapp.com/send?phone=6283162963618"><i class="fab fa-whatsapp"></i> WhatsApp</a>.</p>
-            <p>😄 Pronouns: He/Him</p>
-            <p>⚡ Fun fact: I love exploring new coffee shops and trying different coffee blends around the world!</p>
-        </section>
-    </div>
-</body>
-</html>
+# Hi there, I'm [Pandu Satria]! 👋
+
+![Your Banner Image](url-to-your-image)
+
+## 👨‍💻 About Me
+
+I'm a passionate software developer from [Your Country]. I love to create and contribute to open-source projects, and I'm always eager to learn new technologies and improve my skills.
+
+- 🌱 I’m currently learning [Technology/Language].
+- 👯 I’m looking to collaborate on [Project Type or Specific Project].
+- 💬 Ask me about [Topics you're knowledgeable about].
+- 📫 How to reach me: [Your Email]
+- 😄 Pronouns: [Your Pronouns]
+- ⚡ Fun fact: [A fun fact about you]
+
+## 🛠️ Technologies and Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=contribs,prs&theme=tokyonight)
+
+## 🚀 Projects
+
+- [Project 1](https://github.com/yourusername/project1) - Brief description of project 1.
+- [Project 2](https://github.com/yourusername/project2) - Brief description of project 2.
+- [Project 3](https://github.com/yourusername/project3) - Brief description of project 3.
+
+## 📫 Contact Me
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- Twitter: [@YourTwitterHandle](http

@@ -1,7 +1,5 @@
 # Hi there, I'm Pandu Satria! 👋
 
-![Your Banner Image](url-to-your-image)
-
 ## 👨‍💻 About Me
 
 I'm a passionate software developer from Indonesia. I love to create and contribute to open-source projects, and I'm always eager to learn new technologies and improve my skills.

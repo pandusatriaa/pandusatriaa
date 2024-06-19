@@ -30,6 +30,4 @@ I'm a passionate software developer from Indonesia. I love to create and contrib
 - [Project 3](https://github.com/yourusername/project3) - Brief description of project 3.
 
 ## 📫 Contact Me
-
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [@YourTwitterHandle](http
+href="https://instagram.com/pandugreta"><i class="fab fa-instagram"></i> Instagram</a> or <a href="https://api.whatsapp.com/send?phone=6283162963618"><i class="fab fa-whatsapp"></i> WhatsApp</a>.</p>

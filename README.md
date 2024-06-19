@@ -1,17 +1,17 @@
-# Hi there, I'm [Pandu Satria]! 👋
+# Hi there, I'm Pandu Satria! 👋
 
 ![Your Banner Image](url-to-your-image)
 
 ## 👨‍💻 About Me
 
-I'm a passionate software developer from [Your Country]. I love to create and contribute to open-source projects, and I'm always eager to learn new technologies and improve my skills.
+I'm a passionate software developer from Indonesia. I love to create and contribute to open-source projects, and I'm always eager to learn new technologies and improve my skills.
 
-- 🌱 I’m currently learning [Technology/Language].
-- 👯 I’m looking to collaborate on [Project Type or Specific Project].
-- 💬 Ask me about [Topics you're knowledgeable about].
-- 📫 How to reach me: [Your Email]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [A fun fact about you]
+- 🌱  I’m also diving deeper into backend development
+- 👯 I’m looking to collaborate on open-source projects
+- 💬 Ask me about JavaScript, React, Vue.js, or anything 
+- 📫 How to reach me: pandusatriaa0@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love exploring new coffee shops and trying 
 
 ## 🛠️ Technologies and Tools
 

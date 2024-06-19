@@ -17,7 +17,7 @@
             <p>👯 I’m looking to collaborate on open-source projects related to web development or innovative tech.</p>
             <p>💬 Ask me about JavaScript, React, Vue.js, or anything related to web development!</p>
             <!-- Instagram -->
-            <p>📫 Connect with me on <a href="https://instagram.com/pandugreta"><i class="fab fa-instagram"></i> Instagram</a> or <a href="https://api.whatsapp.com/send?phone=62831162963628"><i class="fab fa-whatsapp"></i> WhatsApp</a>.</p>
+            <p>📫 Connect with me on <a href="https://instagram.com/pandugreta"><i class="fab fa-instagram"></i> Instagram</a> or <a href="https://api.whatsapp.com/send?phone=6283162963618"><i class="fab fa-whatsapp"></i> WhatsApp</a>.</p>
             <p>😄 Pronouns: He/Him</p>
             <p>⚡ Fun fact: I love exploring new coffee shops and trying different coffee blends around the world!</p>
         </section>

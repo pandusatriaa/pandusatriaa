@@ -22,8 +22,5 @@
             <p>⚡ Fun fact: I love exploring new coffee shops and trying different coffee blends around the world!</p>
         </section>
     </div>
-
-    <!-- Font Awesome Script -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/js/all.min.js" integrity="sha512-2Bq+5jsHEbpvN5sL+H4NryVWvIneHhU8Hzx2b5/wUvWDDXXSvFmCHlYHb8C06EZByZoAAXSjHwnK3rDiTCn5LQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 </body>
 </html>

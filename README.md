@@ -5,31 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Font Awesome CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-7XfNwFy5L9M2FC+kMWfz2YWS7P1fZV/5aQK1HJ1J3R0vDCpLAKMjXyN+fZczEtEgAPyjyRlDBRqZF5xZ2bFfHw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <style>
-        /* Optional: CSS for styling */
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            background-color: #f0f0f0;
-            margin: 0;
-            padding: 0;
-        }
-        .container {
-            max-width: 800px;
-            margin: 20px auto;
-            background-color: #fff;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-        }
-        header h1 {
-            color: #333;
-        }
-        section p {
-            margin-bottom: 10px;
-        }
-    </style>
-</head>
 <body>
     <div class="container">
         <header>
